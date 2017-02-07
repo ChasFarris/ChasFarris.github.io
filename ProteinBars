@@ -37,8 +37,7 @@ tr:nth-child(even) {
 <!-- Begin Met-RX -->
   <h3> Met-RX "Crispy Apple Pie" </h3>
   <h4>$6.94(4 BARS)</h4>
-  <!--<h1 align="center">This is heading 1</h1>-->
-  <img src="Met-Rx-Apple.png" alt="Applie Pie"/>
+  <img src="Met-RX-Apple.png" alt="Applie Pie"/>
   
   <table>
   <tr>
@@ -59,7 +58,7 @@ tr:nth-child(even) {
 <!-- Begin Quest Bar -->
   <h3> Quest Bar "Chocolate Chip Cookie Dough" </h3>
   <h4>$24.99 (12 Bars)</h4>
-  <!--<h1 align="center">This is heading 1</h1>-->
+  
   <img src="Quest-Bar.png" alt="Chocolate chip cookie dough"/>
   
    <table>
@@ -80,6 +79,7 @@ tr:nth-child(even) {
   
   <!-- Begin Carnivor -->
   <h3> Carnivor "Cookies & Cream" </h3>
+  <h4>$27.60 (12 Bars)</h4>
   <img src="Carnivor.png" alt="Cookies & Cream"/>
    <table>
   <tr>
@@ -90,15 +90,16 @@ tr:nth-child(even) {
   </tr>
   
   <tr>
-    <td>400</td>
-    <td>31g</td>
-    <td>47g</td>
-    <td>10g</td>
+    <td>380</td>
+    <td>30g</td>
+    <td>32g</td>
+    <td>17g</td>
   </tr>
   <!-- End Carnivor -->
   
   <!-- Begin MP -->
   <h3> Combat Crunch "Chocolate Peanut Butter" </h3>
+  <h4>$26.99 (12 Bars)</h4>
   <img src="MP.png" alt="Chocolate Peanut Butter Cup"/>
    <table>
   <tr>
@@ -109,29 +110,30 @@ tr:nth-child(even) {
   </tr>
   
   <tr>
-    <td>400</td>
-    <td>31g</td>
-    <td>47g</td>
-    <td>10g</td>
+    <td>210</td>
+    <td>20g</td>
+    <td>28g</td>
+    <td>7g</td>
   </tr>
   <!-- End MP -->
   
   <!-- Begin ON -->
   <h3> Optimum Nutrition "Cinnamon Pecan"</h3>
-  <img src="On.png" alt="Cinnamon Pecan"/>
+  <h4>$19.99 (12 Bars)</h4>
+  <img src="ON.png" alt="Cinnamon Pecan"/>
     <table>
   <tr>
-    <th>Calories</th>
+    <th>Calories</th>2
     <th>Protein</th>
     <th>Carbs</th>
     <th>Fat</th>
   </tr>
   
   <tr>
-    <td>400</td>
+    <td>260</td>
     <td>31g</td>
-    <td>47g</td>
-    <td>10g</td>
+    <td>22g</td>
+    <td>20g</td>
   </tr>
   <!-- End ON -->
 </body>
