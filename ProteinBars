@@ -30,7 +30,6 @@ tr:nth-child(even) {
 </head>
 
 <body>
-<img src="Logo.png" alt="Logo"/>
 <h1> FuzionGainz </h1>
 <h2> Protein Bars</h2>
 
@@ -53,6 +52,7 @@ tr:nth-child(even) {
     <td>47g</td>
     <td>10g</td>
   </tr>
+   </table>
 <!-- END Met-RX --> 
 
 <!-- Begin Quest Bar -->
@@ -74,11 +74,12 @@ tr:nth-child(even) {
     <td>21g</td>
     <td>21g</td>
     <td>8g</td>
-  </tr>
+  </tr>  
+  </table>
   <!-- End quest Bar -->
   
   <!-- Begin Carnivor -->
-  <h3> Carnivor "Cookies & Cream" </h3>
+  <h3> Carnivor "Cookies &#38; Cream" </h3>
   <h4>$27.60 (12 Bars)</h4>
   <img src="Carnivor.png" alt="Cookies & Cream"/>
    <table>
@@ -95,6 +96,7 @@ tr:nth-child(even) {
     <td>32g</td>
     <td>17g</td>
   </tr>
+    </table>
   <!-- End Carnivor -->
   
   <!-- Begin MP -->
@@ -115,11 +117,12 @@ tr:nth-child(even) {
     <td>28g</td>
     <td>7g</td>
   </tr>
+    </table>
   <!-- End MP -->
   
   <!-- Begin ON -->
   <h3> Optimum Nutrition "Cinnamon Pecan"</h3>
-  <h4>$19.99 (12 Bars)</h4>
+  <h4>$26.99 (12 Bars)</h4>
   <img src="ON.png" alt="Cinnamon Pecan"/>
     <table>
   <tr>
@@ -135,6 +138,7 @@ tr:nth-child(even) {
     <td>22g</td>
     <td>20g</td>
   </tr>
+    </table>
   <!-- End ON -->
 </body>
 </html>
