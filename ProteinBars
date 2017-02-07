@@ -1,0 +1,138 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Protein Bars</title>
+  <meta name="description" content="HTML5 Template">
+ 
+ <!-- Table Setup --> 
+  <style>
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+</style>
+
+<!-- End Table Setup -->
+</head>
+
+<body>
+<img src="Logo.png" alt="Logo"/>
+<h1> FuzionGainz </h1>
+<h2> Protein Bars</h2>
+
+<!-- Begin Met-RX -->
+  <h3> Met-RX "Crispy Apple Pie" </h3>
+  <h4>$6.94(4 BARS)</h4>
+  <!--<h1 align="center">This is heading 1</h1>-->
+  <img src="Met-Rx-Apple.png" alt="Applie Pie"/>
+  
+  <table>
+  <tr>
+    <th>Calories</th>
+    <th>Protein</th>
+    <th>Carbs</th>
+    <th>Fat</th>
+  </tr>
+  
+  <tr>
+    <td>400</td>
+    <td>31g</td>
+    <td>47g</td>
+    <td>10g</td>
+  </tr>
+<!-- END Met-RX --> 
+
+<!-- Begin Quest Bar -->
+  <h3> Quest Bar "Chocolate Chip Cookie Dough" </h3>
+  <h4>$24.99 (12 Bars)</h4>
+  <!--<h1 align="center">This is heading 1</h1>-->
+  <img src="Quest-Bar.png" alt="Chocolate chip cookie dough"/>
+  
+   <table>
+  <tr>
+    <th>Calories</th>
+    <th>Protein</th>
+    <th>Carbs</th>
+    <th>Fat</th>
+  </tr>
+  
+  <tr>
+    <td>190</td>
+    <td>21g</td>
+    <td>21g</td>
+    <td>8g</td>
+  </tr>
+  <!-- End quest Bar -->
+  
+  <!-- Begin Carnivor -->
+  <h3> Carnivor "Cookies & Cream" </h3>
+  <img src="Carnivor.png" alt="Cookies & Cream"/>
+   <table>
+  <tr>
+    <th>Calories</th>
+    <th>Protein</th>
+    <th>Carbs</th>
+    <th>Fat</th>
+  </tr>
+  
+  <tr>
+    <td>400</td>
+    <td>31g</td>
+    <td>47g</td>
+    <td>10g</td>
+  </tr>
+  <!-- End Carnivor -->
+  
+  <!-- Begin MP -->
+  <h3> Combat Crunch "Chocolate Peanut Butter" </h3>
+  <img src="MP.png" alt="Chocolate Peanut Butter Cup"/>
+   <table>
+  <tr>
+    <th>Calories</th>
+    <th>Protein</th>
+    <th>Carbs</th>
+    <th>Fat</th>
+  </tr>
+  
+  <tr>
+    <td>400</td>
+    <td>31g</td>
+    <td>47g</td>
+    <td>10g</td>
+  </tr>
+  <!-- End MP -->
+  
+  <!-- Begin ON -->
+  <h3> Optimum Nutrition "Cinnamon Pecan"</h3>
+  <img src="On.png" alt="Cinnamon Pecan"/>
+    <table>
+  <tr>
+    <th>Calories</th>
+    <th>Protein</th>
+    <th>Carbs</th>
+    <th>Fat</th>
+  </tr>
+  
+  <tr>
+    <td>400</td>
+    <td>31g</td>
+    <td>47g</td>
+    <td>10g</td>
+  </tr>
+  <!-- End ON -->
+</body>
+</html>
