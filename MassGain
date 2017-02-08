@@ -1,0 +1,144 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Weight Gainerz</title>
+  <meta name="description" content="HTML5 Template">
+ 
+ <!-- Table Setup --> 
+  <style>
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+</style>
+
+<!-- End Table Setup -->
+</head>
+
+<body>
+<h1> FuzionGainz </h1>
+<h2> Weight Gainers</h2>
+
+<!-- Begin Serious Mass -->
+  <h3> Optimum Nutrition Serious Mass "Chocolate" </h3>
+  <h4>$54.99</h4>
+  <img src="SeriousMass.png" alt="Chocolate"/>
+  
+  <table>
+  <tr>
+    <th>Calories</th>
+    <th>Protein</th>
+    <th>Carbs</th>
+    <th>Fat</th>
+  </tr>
+  
+  <tr>
+    <td>1250</td>
+    <td>50g</td>
+    <td>252g</td>
+    <td>4.5g</td>
+  </tr>
+   </table>
+<!-- END Serious Mass --> 
+
+<!-- Begin Rival -->
+  <h3> RIVAL-US "Rich Chocolate" </h3>
+  <h4>$39.99</h4>
+  
+  <img src="Clean.png" alt="Rich Chocolate"/>
+  
+   <table>
+  <tr>
+    <th>Calories</th>
+    <th>Protein</th>
+    <th>Carbs</th>
+    <th>Fat</th>
+  </tr>
+  
+  <tr>
+    <td>560</td>
+    <td>30g</td>
+    <td>90g</td>
+    <td>7g</td>
+  </tr>  
+  </table>
+  <!-- End Rival -->
+  
+  <!-- Begin BSN -->
+  <h3> BSN Syntha-6 "Cookies &#38; Cream" </h3>
+  <h4>$27.60</h4>
+  <img src="SYN.png" alt="Cookies & Cream"/>
+   <table>
+  <tr>
+    <th>Calories</th>
+    <th>Protein</th>
+    <th>Carbs</th>
+    <th>Fat</th>
+  </tr>
+  
+  <tr>
+    <td>200</td>
+    <td>22g</td>
+    <td>15g</td>
+    <td>6g</td>
+  </tr>
+    </table>
+  <!-- End BSN -->
+  
+  <!-- Begin Super Mass -->
+  <h3> Dymatize Nutrition Super Mass Gainer "Rich Chocolate" </h3>
+  <h4>$54.99</h4>
+  <img src="SuperMass.png" alt="Rich Chocolate"/>
+   <table>
+  <tr>
+    <th>Calories</th>
+    <th>Protein</th>
+    <th>Carbs</th>
+    <th>Fat</th>
+  </tr>
+  
+  <tr>
+    <td>1900</td>
+    <td>52g</td>
+    <td>254g</td>
+    <td>10g</td>
+  </tr>
+    </table>
+  <!-- End MP -->
+  
+  <!-- Begin Naked Mass -->
+  <h3> NAKED MASS "All Natural"</h3>
+  <h4>$59.99</h4>
+  <img src="NakedMass.png" alt="Natural"/>
+    <table>
+  <tr>
+    <th>Calories</th>
+    <th>Protein</th>
+    <th>Carbs</th>
+    <th>Fat</th>
+  </tr>
+  
+  <tr>
+    <td>1250</td>
+    <td>50g</td>
+    <td>252g</td>
+    <td>2.5g</td>
+  </tr>
+    </table>
+  <!-- End ON -->
+</body>
+</html>
