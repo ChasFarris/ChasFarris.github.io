@@ -11,10 +11,11 @@
 </head>
 
 <body>
-	
+	<center>
 <img src="Logo.png" alt="Logo" align="center" />
+	</center>
 	
-<h1> Contact Us</h1>
+<h1 style="text-align:center;"> Contact Us</h1>
 	
 <p style="text-align:center;"> 
 	<a href="https://chasfarris.github.io/"> Home </a>
@@ -35,21 +36,30 @@ We will get back to by email as soon as possible.</p>
 <br>
 
 <form action>
+	<p style="text-align:center;">
+	<label>
 	"First Name:"
 	<br>
 	<input type="text" name="firstname">
 	<br>
+	</label>
 	
+	<label>
 	"Last Name:"
 	<br>
 	<input type="text" name="lastname">
 	<br>
-
+	</label>
+	
+	<label>
 	"Email:"
 	<br>
 	<input type="text" name="email">
 	<br>
+	</label>
+	</p> 
 	
+	<p style="text-align:center;">
 	"Reason:"
 	<input type="radio" name="reason" value="question" checked>
 	
@@ -58,10 +68,10 @@ We will get back to by email as soon as possible.</p>
 	
 	"Order Status Update:"
 	<input type="radio" name="reason" value="order" checked>
-	
+	</p>
 	<br>
-	<br>
 	
+	<p style="text-align:center;">
 	"Message:"
 	
 	<br>
@@ -69,7 +79,7 @@ We will get back to by email as soon as possible.</p>
 	<br>>
 	<button type="submit" value="Submit">Submit</button>
 	<button type="reset" value="Rest">Reset</button>
-
+	</p>
 </form>
 
 </body>
