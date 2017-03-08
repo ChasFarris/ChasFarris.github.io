@@ -38,3 +38,24 @@ p.sansserif
 a:hover, a:active {
     background-color: red;
 }
+
+ .links {
+ text-align:center;  background-color: Black ; width:15%; height:100%; 
+position: absolute; top: 4px; left: 10px; padding-top: 50px; max-width: 230px; }
+
+
+
+.heading {
+	  position: absolute; 
+width:70%; left:20%; top:4px; background-color:Black;
+
+}	
+.maincontent {
+	  position: absolute;
+width:70%; left:20%; top:220px; 
+}
+
+.tables {
+	  position: absolute;
+width:70%; left:20%; top:250px; 
+}
