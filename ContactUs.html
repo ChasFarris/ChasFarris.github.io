@@ -7,7 +7,41 @@
   <title>Contact Us</title>
   <meta name="description" content="Contact Us">
 	<link rel="stylesheet" href="style.css" type="text/css">
-
+ <script>
+	  function validate()
+      {
+      
+         if( document.myForm.firstname.value == "" )
+         {
+            alert( "Please provide your first name!" );
+            document.myForm.firstname.focus() ;
+            return false;
+         }
+         
+         if( document.myForm.lastname.value == "" )
+         {
+            alert( "Please provide your last name!" );
+            document.myForm.lastname.focus() ;
+            return false;
+         }
+		  if( document.myForm.Select.value == "-1" )
+         {
+            alert( "Please select why you are contacting us!" );
+            return false;
+         }
+		  if( document.myForm.comment.value == "" )
+         {
+            alert( "Please provide your a comment!" );
+            document.myForm.comment.focus() ;
+            return false;
+		 }
+         else {
+			 alert("We will be contacting you as soon as possible!")
+			 return (true);
+		 }
+      }
+	</script>
+	
 </head>
 
 <body>
