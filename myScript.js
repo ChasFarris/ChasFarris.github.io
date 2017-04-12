@@ -18,9 +18,3 @@ window.onclick = function(event) {
     }
   }
 }
-
-/* Time*/
-var text = document.createTextNode('Today is:');
-var d = new Date();
-document.getElementById("demo").innerHTML = d.toDateString();
-demo.parentNode.insertBefore(text, demo);
