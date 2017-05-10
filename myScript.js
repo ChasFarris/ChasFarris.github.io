@@ -19,3 +19,10 @@ window.onclick = function(event) {
   }
 }
 
+document.getElementById('g').style.left = 0;
+document.getElementById('b').style.left = 0;
+setInterval(function(){
+    var rand = Math.round(Math.random() * 20);
+    document.getElementById('g').style.left = (parseInt(document.getElementById('g').style.left, 10) + rand) + 'px';
+    document.getElementById('b').style.left = rand + 'px';
+}, 1000)
